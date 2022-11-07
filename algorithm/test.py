@@ -1,10 +1,13 @@
-def testFunc(x) -> int:
-    return x * 3
+import random
 
-def testFunc2(x) -> str:
-    return "hello python"
+A = [random.randrange(1,101) for _ in range(10)]
 
-def testFunc3(x) -> None:
-    print("fuck you")
+cnt = 0
+for i in range(len(A)):
+    idx = A.index(min(A[i:]))
+    A[i],A[idx] = A[idx], A[i]
+    cnt += 1
 
+print(A)
+print(cnt)
 
