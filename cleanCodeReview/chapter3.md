@@ -8,7 +8,19 @@
 
 
 ## 작게 만들어라!
-  블록과 들여쓰기
+- 함수의 길이는 더 작을수록 좋다
+- ex)
+  ~~~java
+  public static String renderPageWithSetupsAndTeardowns(
+    PageData pageData, boolean isSuite) throws Exception{
+    if(isTestPage(pageData))
+      includeSetupAndTeardownPages(pageData, isSuite);
+    return pageData.getHtml();
+  }
+  ~~~
+- 블록과 들여쓰기
+  - is/else, while 문 등에 들어가는 블록은 한 줄 혹은 두 줄이어야 한다.
+    
 ## 한 가지만 해라!
   함수 내 섹션
 ## 함수 당 추상화 수준은 하나로
