@@ -28,6 +28,7 @@ public class SendMail {
         props.put("mail.smtp.port", PORT);
         props.put("mail.smtp.starttls.enable", "true");
         props.put("mail.smtp.auth", "true");
+        props.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
         Session session = Session.getDefaultInstance(props);
         MimeMessage msg = new MimeMessage(session);
         msg.setFrom(new InternetAddress(FROM, FROMNAME));

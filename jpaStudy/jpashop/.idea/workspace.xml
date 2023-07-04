@@ -4,26 +4,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d33c3bb1-1781-49fe-9290-78b4a6f7a269" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/FooController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/entity/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../practiceSpring/src/test/java/com/example/practicespring/logTest/ControllerTest.java" afterDir="false" />
+    <list default="true" id="ee20c80c-f5d8-4d2b-a2de-26845af4bea9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaStudy/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaStudy/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaStudy/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaStudy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/javaStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/network/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/network/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/network/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/network/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/network/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/network/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/network/src/main/java/SendMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/src/main/java/SendMail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaStudy/src/main/java/SendMail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/src/main/java/mail/MailSendEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/src/main/java/mail/SendMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/src/main/java/reflection/PracReflection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/src/main/java/reflection/reflection에 대하여.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/target/classes/reflection/PracReflection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaStudy/target/classes/reflection/reflection에 대하여.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/java/jpaBook/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/java/jpaBook/JpaMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/java/jpaBook/jpaShop/domain/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/java/jpaBook/jpaShop/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/java/jpaBook/jpaShop/domain/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/java/jpaBook/jpaShop/domain/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/java/jpaBook/jpaShop/domain/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/main/resources/META_INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jpashop/src/test/java/jpaBook/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practiceSpring/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../practiceSpring/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practiceSpring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/FooController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/FooController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/entity/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/java/com/example/practicespring/entity/Member.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../practiceSpring/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../practiceSpring/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../practiceSpring/src/test/java/com/example/practicespring/logTest/ControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../practiceSpring/src/test/java/com/example/practicespring/logTest/ControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2FtttDt0xczmotEfogFhLJy0Cz8" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FtnmJiOQZJ084wcwsDe9oRHBIr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -32,19 +86,65 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/junjun/JUN/studyRepo/jpaStudy/jpashop",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jpaBook.jpaShop.domain" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="jpaBook" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="jpaBook.JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpaBook.JpaMain" />
+      <module name="jpashop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpaBook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.jpaBook.JpaMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d33c3bb1-1781-49fe-9290-78b4a6f7a269" name="Changes" comment="" />
-      <created>1665323422664</created>
+      <changelist id="ee20c80c-f5d8-4d2b-a2de-26845af4bea9" name="Changes" comment="" />
+      <created>1665320407626</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665323422664</updated>
-      <workItem from="1665323423831" duration="1000" />
+      <updated>1665320407626</updated>
+      <workItem from="1665320408843" duration="2737000" />
+      <workItem from="1665734273994" duration="2274000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

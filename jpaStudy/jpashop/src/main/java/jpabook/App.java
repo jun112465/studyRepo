@@ -1,4 +1,4 @@
-package jpabook;
+package jpaBook;
 
 /**
  * Hello world!

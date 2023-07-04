@@ -1,4 +1,4 @@
-package jpabook;
+package jpaBook;
 
 import static org.junit.Assert.assertTrue;
 
