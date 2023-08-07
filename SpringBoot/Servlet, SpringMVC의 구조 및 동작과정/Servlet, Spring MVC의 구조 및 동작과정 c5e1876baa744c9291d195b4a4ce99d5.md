@@ -15,7 +15,7 @@
         - 서블릿 컨테이너(Servlet Container)로도 불린다.
 - 톰캣은 자바코드를 이용해 HTML 페이지를 동적으로 생성해주는 프로그램이다.
 
-![Untitled](Servlet,%20Spring%20MVC%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%20c5e1876baa744c9291d195b4a4ce99d5/Untitled.png)
+![Untitled](Untitled.png)
 
 ## Servlet
 
@@ -58,7 +58,7 @@
 - 대표적인 Servlet Container가 Tomcat이다. Tomcat 같은 was 가 java 파일을 컴파일해서 class로 만들고 메모리에 올려 servlet 객체를 만든다.
 - 구조
     
-    ![Untitled](Servlet,%20Spring%20MVC%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%20c5e1876baa744c9291d195b4a4ce99d5/Untitled%201.png)
+    ![Untitled](Untitled%201.png)
     
 
 ## DispatcherServlet
@@ -70,7 +70,7 @@
     
 - 스프링 MVC에서는 DIspatcherServlet이라는 모든 요청을 담당하는 서블릿을 두고 컨트롤러에 위임을 하여 요청을 처리한다.
 
-![Untitled](Servlet,%20Spring%20MVC%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%20c5e1876baa744c9291d195b4a4ce99d5/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 - DispatcherServlet.java
     
@@ -139,9 +139,9 @@
         Controller에서 view를 return 했을 경우, 해당하는 view를 찾아 client에게 return 합니다. 
         
     
-    ![Untitled](Servlet,%20Spring%20MVC%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%20c5e1876baa744c9291d195b4a4ce99d5/Untitled%203.png)
+    ![Untitled](Untitled%203.png)
     
-    ![Untitled](Servlet,%20Spring%20MVC%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%20c5e1876baa744c9291d195b4a4ce99d5/Untitled%204.png)
+    ![Untitled](Untitled%204.png)
     
 
 ## Spring Container
@@ -158,4 +158,4 @@
     - 등등
 - 구조
     
-    ![Untitled](Servlet,%20Spring%20MVC%E1%84%8B%E1%85%B4%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A5%E1%86%BC%20c5e1876baa744c9291d195b4a4ce99d5/Untitled%205.png)
+    ![Untitled](Untitled%205.png)
