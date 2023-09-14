@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "java/basic/src",
         "java/app/src/main/java/java/reflection"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
