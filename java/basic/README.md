@@ -1,6 +1,8 @@
 # index
 * [Collection의 종류](#collection-종류)
 * [final을 사용하는 이유](#final-사용하는-이유)
+* [Collection 사용 방법](#collection-사용-방법)
+    * [Map 사용 방법](#hashmap-사용-방법)
 
 ## Collection 종류
 - 컬렉션을 사용하는 이유
@@ -21,6 +23,27 @@
     - Stack & Queue 
         - Stack은 클래스로 직접 new 키워드를 통해 할당
         - Queue 인터페이스는 LinkedList에 new 키워드를 적용하여 사용할 수 있다.
+
+## Collection 사용 방법
+### HashMap 사용 방법
+```java
+// 선언
+Map<Object,Object> map = new HashMap<>();
+
+// 중복되는 key를 넣는 경우 최신화된다.
+map.put(object, object);
+
+map.get(key);
+
+map.remove(key);
+
+map.clear(key);
+
+// 순회
+for(Object key : map.keySet()){
+    System.out.println(map.get(key));
+}
+```
 
 ## final 사용하는 이유
 - final class : 다른 클래스에서 상속하지 못한다.
