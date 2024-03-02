@@ -25,6 +25,8 @@
         - Queue 인터페이스는 LinkedList에 new 키워드를 적용하여 사용할 수 있다.
 
 ## Collection 사용 방법
+
+
 ### HashMap 사용 방법
 ```java
 // 선언
@@ -51,3 +53,14 @@ for(Object key : map.keySet()){
 - final variable : 변하지 않는 상수값이 되어 새로 할당할 수 없는 변수가 된다. 그렇기 때문에 초기값이 초기화 값이 필수.
 
 - final argument : 메소드 내에서 변경이 불가능하다. 
+
+## Sting 관련 함수나 개념
+
+- String to Object or Object to String
+    ```java
+        String str;
+        int a = Integer.parseInt(str);
+        int b = Long.parseLong(str);
+
+        String numStr = String.valueOf(a);
+    ```
