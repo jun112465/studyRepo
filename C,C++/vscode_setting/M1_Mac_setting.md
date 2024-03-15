@@ -1,6 +1,8 @@
-# M1 맥북에서 내가 사용하는 설정
+# 유용한 링크
+- vscode 매개변수 정보 : 
+ https://code.visualstudio.com/docs/editor/variables-reference
 
-c언어의 빌드 과정을 살펴보자
+# c언어의 빌드 과정을 살펴보자
 
 1. 전처리
     - 주석 제거
