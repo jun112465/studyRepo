@@ -45,3 +45,18 @@ int main(){
 }
 
 ```
+
+### extern
+- 다른 파일의 전역변수에 접근할 때 사용하는 키워드
+```c
+//test.c
+int a
+
+int test(){
+....
+}
+
+//main.c
+extern int a;
+prinf("%d", a); //10
+```
