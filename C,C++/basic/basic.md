@@ -63,4 +63,11 @@ prinf("%d", a); //10
 
 ### exit() vs return
 - return : 일반 함수를 반환값과 함께 종료시킨다.
-- exit : 프로세스 자체를 종료시킨다. 종료 전 모든 파일에 대한 입출력을 저장한다. main 함수에서의 return은 exit과 기능적으로 거의 유사. 
+- exit : 프로세스 자체를 종료시킨다. 종료 전 모든 파일에 대한 입출력을 저장한다. main 함수에서의 return은 exit과 기능적으로 거의 유사.
+
+### 변수명에 _t 붙는 이유
+- **'_t'**는 typedef로 정의된 사용자 지정 타입에 관례로 붙게된다.
+- pid_t : typedef int pid_t
+- uid_t : typedef int uid_t
+- ....
+- 
