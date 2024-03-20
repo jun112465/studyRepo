@@ -70,4 +70,7 @@ prinf("%d", a); //10
 - pid_t : typedef int pid_t
 - uid_t : typedef int uid_t
 - ....
-- 
+
+### sscanf(char *str, const char *format, type data)
+- str에서 format과 같은 형식의 데이터를 찾아서 data에 값을 넣어준다.
+
