@@ -1,4 +1,4 @@
-1. vundle 설치
+1. vundle, clang, python3 설치 
 2. '.vimrc' 파일 만들기
 3. 아래와 같이 vimrc 파일 작성하기.
 ```
