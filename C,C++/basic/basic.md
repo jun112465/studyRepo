@@ -15,6 +15,10 @@ return_type (*pointer_name)(parameter_list);
 int (*ptr)(int);
 
 int add(int a, int b);
+
+// ()에 따른 차이
+void *my_func(); // void*를 리턴하는 함수
+void (*my_func)(); // 함수포인터
 ```
 
 ```c
