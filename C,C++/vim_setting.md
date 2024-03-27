@@ -103,7 +103,10 @@ python3 install.py --clang-completer
 # 위 코드에서 에러가 뜨면
 # --force-sudo 옵션 추가하기.
 ```
-
+# 유용한 플러그인 정리
+- [nerdtree] : https://github.com/preservim/nerdtree
+- [syntastic] : https://github.com/vim-syntastic/syntastic?tab=readme-ov-file#installation
+- 
 # color schema setting
 1. ~/.vim/colors 디렉토리 만들기
 2. https://github.com/rafi/awesome-vim-colorschemes 해당 링크에서 colors 폴더 내부 내용 다운 받아 colors안에 저장하기. 1번을 건너뛰고 ~/.vim 디렉토리 하위에 colors를 저장해도 된다.
