@@ -106,6 +106,7 @@ python3 install.py --clang-completer
 # 유용한 플러그인 정리
 - [nerdtree] : https://github.com/preservim/nerdtree
 - [syntastic] : https://github.com/vim-syntastic/syntastic?tab=readme-ov-file#installation
+- [youCompleteMe] : https://github.com/ycm-core/YouCompleteMe?tab=readme-ov-file#installation
 - 
 # color schema setting
 1. ~/.vim/colors 디렉토리 만들기
