@@ -103,3 +103,11 @@ python3 install.py --clang-completer
 # 위 코드에서 에러가 뜨면
 # --force-sudo 옵션 추가하기.
 ```
+
+# color schema setting
+1. ~/.vim/colors 디렉토리 만들기
+2. https://github.com/rafi/awesome-vim-colorschemes 해당 링크에서 colors 폴더 내부 내용 다운 받아 colors안에 저장하기. 1번을 건너뛰고 ~/.vim 디렉토리 하위에 colors를 저장해도 된다.
+3. ~/.vimrc 설정해주기
+   ```
+   colo = colo onehalfdark
+   ```
